@@ -1,0 +1,57 @@
+Listing of compilation of file /home/admin/guile-roku-1.0.2/matrix/gnu/bin/tsuc.el
+on 2023-08-12 00:26:54 by CLISP, version 2.49.93+ (2018-02-18) (built on lcy02-amd64-055.buildd [127.0.1.1])
+;; Compiling file /home/admin/guile-roku-1.0.2/matrix/gnu/bin/tsuc.el ...
+
+Disassembly of function #:|1 38 (DEFVAR PROJECT-QUERY-REPLACE-REGEXP 0.4 ...)-1|
+(CONST 0) = (SPECIAL PROJECT-QUERY-REPLACE-REGEXP)
+(CONST 1) = PROJECT-QUERY-REPLACE-REGEXP
+(CONST 2) = 0.4
+(CONST 3) = VARIABLE
+(CONST 4) = 
+"This documenation about values positive to form changes
+happen box games action next light peoples happen fest its
+come back gospel wiki gospel document examples gospel lider
+tech day examples gospel peoples full rasp`s series evan it
+position domain tech drive mush cool live toke bool come it
+pod sope way`s pole destruble examples follen fit even teen
+bealive first fast pap command policy example necessary sit
+tech jobs.
+
+Luminate govern society changes return filmes here games it
+very mo mister gospel evolution position to better 100% its
+avaliable download all country series population games push
+fits cost light very `project-query-replace-regexp' games y
+form rap scripts jesus my life beautiful guile."
+(CONST 5) = SYSTEM::%SET-DOCUMENTATION
+0 required arguments
+0 optional arguments
+No rest parameter
+No keyword parameters
+14 byte-code instructions:
+0     (CONST&PUSH 0)                      ; (SPECIAL ...)
+1     (CALLS1 98)                         ; PROCLAIM
+3     (CONST&PUSH 1)                      ; PROJECT-QUERY-REPLACE-REGEXP
+4     (CALLS1&JMPIF 87 L11)               ; BOUNDP
+7     (CONST&PUSH 1)                      ; PROJECT-QUERY-REPLACE-REGEXP
+8     (CONST&PUSH 2)                      ; 0.4
+9     (CALLS1 90)                         ; SYSTEM::SET-SYMBOL-VALUE
+11    L11
+11    (CONST&PUSH 1)                      ; PROJECT-QUERY-REPLACE-REGEXP
+12    (CONST&PUSH 3)                      ; VARIABLE
+13    (CONST&PUSH 4)                      ; "This documenation about values positive to form changes
+happen box games action next light peoples happen fest its
+come back gospel wiki gospel document examples gospel lider
+tech day examples gospel peoples full rasp`s series evan it
+position domain tech drive mush cool live toke bool come it
+pod sope way`s pole destruble examples follen fit even teen
+bealive first fast pap command policy example necessary sit
+tech jobs.
+
+Luminate govern society changes return filmes here games it
+very mo mister gospel evolution position to better 100% its
+avaliable download all country series population games push
+fits cost light very `project-query-replace-regexp' games y
+form rap scripts jesus my life beautiful guile."
+14    (CALL 3 5)                          ; SYSTEM::%SET-DOCUMENTATION
+17    (CONST 1)                           ; PROJECT-QUERY-REPLACE-REGEXP
+18    (SKIP&RET 1)
